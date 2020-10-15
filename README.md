@@ -6,7 +6,7 @@
 * [Prerequisite](#prerequisite)
 
 # Introduction
--	Welcome to **Daily Task Scheduler**. It's a task scheduler for routing life for computer/laptop. It's an very simple project in java which help to schedule your weekly.
+-	Welcome to **Daily Task Scheduler**. It's a task scheduler for routing life for computer/laptop. It's an very simple project in java which help to schedule your weekly tasks in daily basis.
 -	This project is made using java swing package using [Netbeans](https://netbeans.apache.org/download/index.html "Netbeans Download") IDE.
 -	In this project also I use the database connectivity for every day.
 
